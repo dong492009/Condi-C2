@@ -11,8 +11,8 @@
 
      "SQL" : {
           "SQL-Host" : "localhost:3306",
-          "SQL-Username" : "zxcr9999",
-          "SQL-Password" : "zxcr9999123",
+          "SQL-Username" : "hoangdong",
+          "SQL-Password" : "hoangvandong2009",
           "SQL-Name" : "cnc",
 
           "SQL-Audit" : {
